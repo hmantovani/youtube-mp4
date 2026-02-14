@@ -1,0 +1,9 @@
+@echo off
+echo Gerenciando ambiente Python...
+python -m venv venv
+call venv\Scripts\activate
+echo Instalando/Atualizando dependencias (isso pode demorar na primeira vez)...
+pip install -r requirements.txt --quiet
+echo Abrindo o YouTube Downloader...
+python main.py
+pause
