@@ -28,8 +28,13 @@ A modern desktop utility for downloading YouTube videos in high quality. This pr
 └── downloads/
 ```
 
----
----
+<p style="font-size: 0.9em; font-style: italic;">
+This project uses icons (flags) created by 
+<a href="https://www.flaticon.com/authors/freepik">Freepik</a> 
+from the website 
+<a href="https://www.flaticon.com/">Flaticon</a>.
+</p>
+
 ---
 
 # <img src="assets/br.png" width="24"> <img src="assets/pt.png" width="24"> YouTube Multi-Downloader
@@ -51,7 +56,7 @@ Um utilitário de desktop moderno para baixar vídeos do YouTube em alta qualida
 * Clique duas vezes no arquivo **`run.bat`**.
 * O script irá configurar o ambiente virtual, instalar as dependências e abrir o programa.
 
-### 📂 Estrutura
+### Estrutura
 
 ```text
 /youtube-mp4
@@ -61,3 +66,10 @@ Um utilitário de desktop moderno para baixar vídeos do YouTube em alta qualida
 ├── assets/
 └── downloads/
 ```
+
+<p style="font-size: 0.9em; font-style: italic;">
+Este projeto utiliza ícones (bandeiras) criados por 
+<a href="https://www.flaticon.com/authors/freepik">Freepik</a> 
+do site 
+<a href="https://www.flaticon.com/">Flaticon</a>.
+</p>
